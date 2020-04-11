@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "FlowNetwork_Diagrams", "ClassDiagram\FlowNetwork_Diagrams.modelproj", "{BA962C4B-E553-4F37-8331-355B5269FD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowNetworkNew", "FlowNetworkNew\FlowNetworkNew.csproj", "{0A72ACF1-413D-41BC-8F8B-B59B20C4D4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsFlowNetwork", "UnitTestsFlowNetwork\UnitTestsFlowNetwork.csproj", "{405E8EDD-F0F5-4633-8D76-EFD4ED412509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA962C4B-E553-4F37-8331-355B5269FD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA962C4B-E553-4F37-8331-355B5269FD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA962C4B-E553-4F37-8331-355B5269FD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA962C4B-E553-4F37-8331-355B5269FD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A72ACF1-413D-41BC-8F8B-B59B20C4D4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A72ACF1-413D-41BC-8F8B-B59B20C4D4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A72ACF1-413D-41BC-8F8B-B59B20C4D4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A72ACF1-413D-41BC-8F8B-B59B20C4D4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405E8EDD-F0F5-4633-8D76-EFD4ED412509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405E8EDD-F0F5-4633-8D76-EFD4ED412509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405E8EDD-F0F5-4633-8D76-EFD4ED412509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405E8EDD-F0F5-4633-8D76-EFD4ED412509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

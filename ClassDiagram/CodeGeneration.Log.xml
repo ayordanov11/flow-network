@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="ProjectPath = ..\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-12-15T21:59:23" Importance="Medium" Text="ClassDiagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ClassDiagram::Component' -  (Class), 'ClassDiagram::Form1' -  (Class), 'ClassDiagram::PumpSink' -  (Class), 'ClassDiagram::Splitter' -  (Class), 'ClassDiagram::AdjustableSplitter' -  (Class), 'ClassDiagram::Merger' -  (Class), 'ClassDiagram::Sink' -  (Class), 'ClassDiagram::Pipeline' -  (Class), 'ClassDiagram::Network' -  (Class), 'ClassDiagram::Toolbox' -  (Class), 'ClassDiagram::FileHelper' -  (Class), 'ClassDiagram::Network_Sequence_Diagram' -  (Interaction), 'ClassDiagram::Sequence_Diagram' -  (Interaction), 'ClassDiagram::Add_Pipeline_Sequence_Diagram' -  (Interaction), 'ClassDiagram::Remove_Component_Diagram' -  (Interaction), 'ClassDiagram::Remove_Pipeline_Diagram' -  (Interaction), 'ClassDiagram::Change_flow_of_a_pump_Diagram' -  (Interaction), 'ClassDiagram::Change_percentage_of_adjustable_splitter_Diagram' -  (Interaction), 'ClassDiagram::Create_new_project_Diagram' -  (Interaction), 'ClassDiagram::Save_to_file_Diagram' -  (Interaction), 'ClassDiagram::Load_from_file_Diagram' -  (Interaction), 'ClassDiagram::findComponent_Diagram' -  (Interaction) " />
+  <Message Timestamp="2016-12-15T21:59:46" Importance="Medium" Text="Project Added: C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-12-15T21:59:46" Importance="Medium" Text="'ClassDiagram::Component' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Component.cs" />
+  <Message Timestamp="2016-12-15T21:59:46" Importance="Medium" Text="'ClassDiagram::Form1' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Form1.cs" />
+  <Message Timestamp="2016-12-15T21:59:47" Importance="Medium" Text="'ClassDiagram::PumpSink' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\PumpSink.cs" />
+  <Message Timestamp="2016-12-15T21:59:47" Importance="Medium" Text="'ClassDiagram::Splitter' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Splitter.cs" />
+  <Message Timestamp="2016-12-15T21:59:48" Importance="Medium" Text="'ClassDiagram::AdjustableSplitter' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\AdjustableSplitter.cs" />
+  <Message Timestamp="2016-12-15T21:59:48" Importance="Medium" Text="'ClassDiagram::Merger' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Merger.cs" />
+  <Message Timestamp="2016-12-15T21:59:48" Importance="Medium" Text="'ClassDiagram::Sink' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Sink.cs" />
+  <Message Timestamp="2016-12-15T21:59:49" Importance="Medium" Text="'ClassDiagram::Pipeline' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Pipeline.cs" />
+  <Message Timestamp="2016-12-15T21:59:50" Importance="Medium" Text="'ClassDiagram::Network' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Network.cs" />
+  <Message Timestamp="2016-12-15T21:59:50" Importance="Medium" Text="'ClassDiagram::Toolbox' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\Toolbox.cs" />
+  <Message Timestamp="2016-12-15T21:59:50" Importance="Medium" Text="'ClassDiagram::FileHelper' -  (Class) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\FileHelper.cs" />
+  <Message Timestamp="2016-12-15T21:59:50" Importance="Diagnostic" Text="'ClassDiagram::Network_Sequence_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Sequence_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Add_Pipeline_Sequence_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Remove_Component_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Remove_Pipeline_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Change_flow_of_a_pump_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Change_percentage_of_adjustable_splitter_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:51" Importance="Diagnostic" Text="'ClassDiagram::Create_new_project_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="'ClassDiagram::Save_to_file_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="'ClassDiagram::Load_from_file_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="'ClassDiagram::findComponent_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'ClassTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="Name = EnumTemplate" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="ProjectPath = ..\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Medium" Text="ClassDiagram's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'ClassDiagram::toolsCollection' -  (Enumeration) " />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Medium" Text="'ClassDiagram::toolsCollection' -  (Enumeration) : success (file created) - C:\Users\Filip Toman\Source\Repos\OOD2\ClassDiagram\ClassDiagramLib\GeneratedCode\toolsCollection.cs" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="ProjectPath = ..\ClassDiagramLib\ClassDiagramLib.csproj" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Medium" Text="ClassDiagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ClassDiagram::Component' -  (Class), 'ClassDiagram::Form1' -  (Class), 'ClassDiagram::PumpSink' -  (Class), 'ClassDiagram::Splitter' -  (Class), 'ClassDiagram::AdjustableSplitter' -  (Class), 'ClassDiagram::Merger' -  (Class), 'ClassDiagram::Sink' -  (Class), 'ClassDiagram::Pipeline' -  (Class), 'ClassDiagram::Network' -  (Class), 'ClassDiagram::Toolbox' -  (Class), 'ClassDiagram::FileHelper' -  (Class), 'ClassDiagram::Network_Sequence_Diagram' -  (Interaction), 'ClassDiagram::Sequence_Diagram' -  (Interaction), 'ClassDiagram::Add_Pipeline_Sequence_Diagram' -  (Interaction), 'ClassDiagram::Remove_Component_Diagram' -  (Interaction), 'ClassDiagram::Remove_Pipeline_Diagram' -  (Interaction), 'ClassDiagram::Change_flow_of_a_pump_Diagram' -  (Interaction), 'ClassDiagram::Change_percentage_of_adjustable_splitter_Diagram' -  (Interaction), 'ClassDiagram::Create_new_project_Diagram' -  (Interaction), 'ClassDiagram::Save_to_file_Diagram' -  (Interaction), 'ClassDiagram::Load_from_file_Diagram' -  (Interaction), 'ClassDiagram::findComponent_Diagram' -  (Interaction) " />
+  <Message Timestamp="2016-12-15T21:59:52" Importance="Diagnostic" Text="'ClassDiagram::Component' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Form1' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::PumpSink' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Splitter' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::AdjustableSplitter' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Merger' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Sink' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Pipeline' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Network' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Toolbox' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::FileHelper' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Network_Sequence_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Sequence_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Add_Pipeline_Sequence_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Remove_Component_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Remove_Pipeline_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Change_flow_of_a_pump_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:53" Importance="Diagnostic" Text="'ClassDiagram::Change_percentage_of_adjustable_splitter_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::Create_new_project_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::Save_to_file_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::Load_from_file_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::findComponent_Diagram' -  (Interaction): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="The selection included 133 elements which were not bound to a template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram' -  (ModelStoreModel): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'790ca40f-b888-4766-909a-abaaa710468e' -  (Comment): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'int' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'int[]' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'string' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'bool' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'bool[]' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'List&lt;Node&gt;' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'List&lt;Component&gt;' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'Component[]' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'Components[]' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'List&lt;Pipeline&gt;' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'Components' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'List&lt;int[]&gt;' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'List&lt;int[2]&gt;' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'List&lt;Point&gt;' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'Point' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'void' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'void(' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'var' -  (UndefinedType): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::ExecutionEvent' -  (ExecutionEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (SendOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (ReceiveOperationEvent): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="Diagnostic" Text="'ClassDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-12-15T21:59:54" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
